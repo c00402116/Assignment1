@@ -1,19 +1,14 @@
 fileFormatVersion: 2
-guid: 124aeb3b0b51fe54c9f560dc766b0d97
+guid: a9ce60b4c44c5df4ab44bb405cd0fa8c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
   externalObjects:
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: 909d790d4bfba4941a2dcd698d9fec94, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: spruce wood
-    second: {fileID: 2100000, guid: a6e8ffcad9bd2564c9a3a8f5354700e6, type: 2}
+      name: Wood031_1K_Color
+    second: {fileID: 2800000, guid: a4f1f07818a32f14ab943906e4c9ae43, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
