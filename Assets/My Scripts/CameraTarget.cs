@@ -37,6 +37,6 @@ public class CameraTarget : MonoBehaviour
         rotation = Quaternion.Euler(0, angleX, 0);
         transform.position = target.transform.position - (rotation * offset);
 
-        transform.LookAt(target.transform);
+        //transform.LookAt(target.transform);
     }
 }
